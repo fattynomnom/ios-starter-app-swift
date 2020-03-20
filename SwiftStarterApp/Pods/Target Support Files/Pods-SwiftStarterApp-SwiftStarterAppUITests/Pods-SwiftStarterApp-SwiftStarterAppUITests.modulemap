@@ -1,0 +1,6 @@
+framework module Pods_SwiftStarterApp_SwiftStarterAppUITests {
+  umbrella header "Pods-SwiftStarterApp-SwiftStarterAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

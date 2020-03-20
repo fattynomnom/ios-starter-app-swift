@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.0.2)
+  - IQKeyboardManagerSwift (6.5.5)
+  - KeychainSwift (15.0.0)
+  - Keys (1.0.1)
+  - Kingfisher (5.13.1):
+    - Kingfisher/Core (= 5.13.1)
+  - Kingfisher/Core (5.13.1)
+  - SimpleCheckbox (2.1.0)
+  - SwiftyJSON (4.3.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - IQKeyboardManagerSwift
+  - KeychainSwift (~> 15.0)
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - Kingfisher (~> 5.0)
+  - SimpleCheckbox
+  - SwiftyJSON (~> 4.0)
+  - Toast-Swift (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - KeychainSwift
+    - Kingfisher
+    - SimpleCheckbox
+    - SwiftyJSON
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  KeychainSwift: c6fc018d287804faf1ce3f258a1e51a7178c8382
+  Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
+  Kingfisher: f33a848445e33c543620812158dc5d47f6bf90df
+  SimpleCheckbox: ddcd433ab8c3a8f57300bebda13151a8f302c7f9
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: ba0e012075a0f304885438ac748360be487fe06b
+
+COCOAPODS: 1.8.4
